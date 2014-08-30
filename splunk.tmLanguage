@@ -37,7 +37,7 @@
 			<key>comment</key>
 			<string>Digits</string>
 			<key>match</key>
-			<string>\d+</string>
+			<string>\b(\d+)\b</string>
 			<key>name</key>
 			<string>constant.numeric.splunk</string>
 		</dict>

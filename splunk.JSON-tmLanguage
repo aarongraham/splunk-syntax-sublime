@@ -21,7 +21,7 @@
         },
 
         {
-            "match": "\\d+",
+            "match": "\\b(\\d+)\\b",
             "comment": "Digits",
             "name": "constant.numeric.splunk"
         },
