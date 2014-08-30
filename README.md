@@ -1,9 +1,10 @@
 # Sublime Syntax highlighting Splunk
-
 A Sublime syntax definition for the Splunk Search Processing language to enable syntax highlighting
 
-## Install Manually
+## Install
+The package is in the [Sublime Package Manager](https://sublime.wbond.net/packages/Splunk%20Syntax) and should be installed from there.
 
+## Install Manually
 * Place the .tmLanguage file inside the Sublime packages folder (`Preferences | Browse Packages...`)
 * Restart Sublime
 
