@@ -10,7 +10,7 @@ The package is in the [Sublime Package Manager](https://sublime.wbond.net/packag
 
 ## Development
 * Install [AAAPackageDev](https://github.com/SublimeText/AAAPackageDev)
-* Work on the JSON files and use [AAAPackageDev](https://github.com/SublimeText/AAAPackageDev) to complie them to the XML format required by Sublime
+* Work on the JSON files and use [AAAPackageDev](https://github.com/SublimeText/AAAPackageDev) to compile them to the XML format required by Sublime
 * A good starting guide can be found [here](http://docs.sublimetext.info/en/latest/extensibility/syntaxdefs.html)
 
 ## License
