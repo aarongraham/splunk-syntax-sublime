@@ -46,14 +46,14 @@
 
         {
             "name": "string.quoted.double.splunk",
-            "begin": "\"",
-            "end": "\""
+            "begin": "(?<!\\\\)\"",
+            "end": "(?<!\\\\)\""
         },
 
         {
             "name": "string.quoted.single.splunk",
-            "begin": "'",
-            "end": "'"
+            "begin": "(?<!\\\\)'",
+            "end": "(?<!\\\\)'"
         }
     ]
 }
