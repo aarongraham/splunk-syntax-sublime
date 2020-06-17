@@ -53,7 +53,7 @@
 			<key>comment</key>
 			<string>Splunk Operators</string>
 			<key>match</key>
-			<string>\b(AND|OR|as|by)\b</string>
+			<string>\b(AND|OR|as|AS|by|BY)\b</string>
 			<key>name</key>
 			<string>keyword.operator.splunk</string>
 		</dict>
