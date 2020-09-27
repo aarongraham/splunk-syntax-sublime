@@ -11,7 +11,9 @@ The package is in the [Sublime Package Manager](https://sublime.wbond.net/packag
 ## Development
 * Install [AAAPackageDev](https://github.com/SublimeText/AAAPackageDev)
 * Work on the JSON files and use [AAAPackageDev](https://github.com/SublimeText/AAAPackageDev) to compile them to the XML format required by Sublime
-* A good starting guide can be found [here](http://docs.sublimetext.info/en/latest/extensibility/syntaxdefs.html)
+
+## Deployment
+* Add a git tag with a higher version number, according to semver rules. After some time the sublime package manager will pick up the new version. 
 
 ## License
 This package is licensed under the MIT License.
