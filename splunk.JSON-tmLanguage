@@ -33,7 +33,7 @@
         },
 
         {
-            "match": "\\b(AND|OR|as|by)\\b",
+            "match": "\\b(AND|OR|as|AS|by|BY)\\b",
             "comment": "Splunk Operators",
             "name": "keyword.operator.splunk"
         },
